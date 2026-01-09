@@ -18,3 +18,5 @@ Welcome to AYUSH Garden, an interactive web application that allows you to explo
 *   **UI:** React, TypeScript, ShadCN UI, Tailwind CSS
 *   **Generative AI:** Google's Gemini models via Genkit
 *   **Database & Auth:** Firebase (Firestore & Authentication)
+
+preview: https://9000-firebase-studio-1767634391455.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev
